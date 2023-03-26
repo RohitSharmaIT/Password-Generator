@@ -72,6 +72,7 @@ Hello, I'm Rohit Sharma, a web developer with 3 years of experience in the field
 - C Programing
 - Java
 - Problme Solving
+- Data Structure & Algorithm
 - Object Oriented Programing
 - HTML
 - CSS
