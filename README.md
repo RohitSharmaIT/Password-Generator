@@ -1,6 +1,6 @@
 
 # Password Generator
-This is a simple password generator project that allows users to generate random passwords of varying lengths and complexity. I created this project using Html, Css and JavaScript.
+This is a simple password generator project that allows users to generate random passwords of varying lengths and complexity. I created this project using Html, Css and JavaScript. 
 
 
 ## Features
@@ -10,6 +10,7 @@ This is a simple password generator project that allows users to generate random
 - Include uppercase letters, lowercase letters, numbers, and special characters
 - Copy password to clipboard with one click
 - Customizable options for password complexity
+- User friendly interface
 
 
 ## Acknowledgements
