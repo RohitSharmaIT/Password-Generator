@@ -70,18 +70,14 @@ This project was created by **Rohit Sharma** . If you have any feedback or sugge
 Hello, I'm Rohit Sharma, a web developer with 3 years of experience in the field. I'm passionate about building web applications and creating user-friendly interfaces that make people's lives easier. My main areas of expertise include front-end and web design.
 
 ## Skills
-- C++ Programing
-- C Programing
-- Java
-- Problme Solving
+- C++ Programming
+- Problem Solving
 - Data Structure & Algorithm
-- Object Oriented Programing
+- Object Oriented Programming
 - HTML
 - CSS
 - CSS Tailwind
 - JavaScript
-- React
-- Node.js
 ## Feedback
 
 If you have any feedback, please reach out to me at 28rohitsharmait@gmail.com
