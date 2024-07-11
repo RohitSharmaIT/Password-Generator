@@ -71,15 +71,12 @@ Hello, I'm Rohit Sharma, I'm passionate about building web applications and crea
 
 ## Skills
 - C++ Programming
-- C Programming
 - Problem Solving
 - Object Oriented Programming
 - HTML
 - CSS
 - CSS Tailwind
 - JavaScript
-- React
-- Node.js
   
 ## Feedback
 
